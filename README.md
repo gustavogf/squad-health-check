@@ -1,4 +1,4 @@
-# squad-health-check
+# Squad Health Check
 
 https://gustavogf.github.io/squad-health-check/
 

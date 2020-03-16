@@ -2,4 +2,4 @@
 
 https://gustavogf.github.io/squad-health-check/
 
-![Yugioh](images/yugioh.jpg)
+![Yugioh](images/duelo.jpg)
